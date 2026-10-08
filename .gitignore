@@ -1,0 +1,14 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# streamlit会话文件
+sessions/
+
+# PyCharm配置文件夹
+.idea/
+
+# 虚拟环境
+venv/
+.env
